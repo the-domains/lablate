@@ -1,0 +1,14 @@
+layout_spectrum: 0.23183546354994178
+typography_spectrum: 0.10851513082161546
+color:
+  brandStrength: 0.4134360558819026
+  lightness: 0.021855399012565613
+  saturation: 0.0798134368378669
+  rhythmicContrast: 0.8625274212099612
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: lablate
